@@ -334,3 +334,5 @@ install.tar.gz
 DistroLauncher.exe
 DistroLauncher.exe.config
 /WslManager/WslManagerSetup.exe
+
+.ionide
